@@ -1,0 +1,62 @@
+.arrow-down-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/arrow_down_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.message-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/message.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.call-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/call_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.location-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/location_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.inst-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/inst_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.burger-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/burger_menu_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.close-icon {
+  display: block;
+  height: 24px;
+  width: 24px;  
+  background-image: url('../assets/close_icon.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}

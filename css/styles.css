@@ -1,0 +1,58 @@
+.photo-dasha {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.main-wrapper {
+  padding: 60px 20px 0 20px;
+}
+
+.logo {
+  font-size: 12px;
+}
+
+.main-title {
+  font-family: "Epilogue", serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+}
+
+.about-me-title {
+  font-family: "Epilogue", serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;  
+}
+
+.about-me-section {
+  margin-top: 20px;
+  font-family: "Epilogue", serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.portfolio-title {
+  font-family: "Epilogue", serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+  margin: 20px 20px 40px 20px;
+}
+
+.portfolio-photo {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 0;
+}
