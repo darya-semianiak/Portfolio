@@ -108,6 +108,12 @@ header {
   justify-content: space-between;
 }
 
+.ig-link {
+  color: #333333;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .info-grid {
   display: grid;
   grid-template-columns: 40px auto;
@@ -140,13 +146,6 @@ header {
   height: 40px;
   border-radius: 30px;
   color: white;
-}
-
-main {
-  height: 100%;
-  padding: 80px 20px 20px 20px;
-  max-width: 1000px;
-  margin: 0px auto;
 }
 
 .divider {
